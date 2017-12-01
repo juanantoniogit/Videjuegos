@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+#VIDEO JUEGOS INDIE
 
-You can use the [editor on GitHub](https://github.com/juanantoniogit/Videjuegos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Esta es la pagina donde se alojan proyectos relacionados con video juegos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aqui puedes encontrar enlaces a los distintos videojuegos
 
 ### Markdown
 
